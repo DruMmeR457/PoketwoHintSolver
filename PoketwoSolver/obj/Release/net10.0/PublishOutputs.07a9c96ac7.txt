@@ -1,0 +1,5 @@
+D:\VS Workspace\PoketwoSolver\PoketwoSolver\bin\Release\net10.0\publish\PoketwoSolver.exe
+D:\VS Workspace\PoketwoSolver\PoketwoSolver\bin\Release\net10.0\publish\PoketwoSolver.dll
+D:\VS Workspace\PoketwoSolver\PoketwoSolver\bin\Release\net10.0\publish\PoketwoSolver.deps.json
+D:\VS Workspace\PoketwoSolver\PoketwoSolver\bin\Release\net10.0\publish\PoketwoSolver.runtimeconfig.json
+D:\VS Workspace\PoketwoSolver\PoketwoSolver\bin\Release\net10.0\publish\PoketwoSolver.pdb

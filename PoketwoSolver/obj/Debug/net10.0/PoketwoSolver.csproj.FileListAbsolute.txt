@@ -1,0 +1,14 @@
+D:\VS Workspace\PoketwoSolver\PoketwoSolver\obj\Debug\net10.0\PoketwoSolver.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Workspace\PoketwoSolver\PoketwoSolver\obj\Debug\net10.0\PoketwoSolver.AssemblyInfoInputs.cache
+D:\VS Workspace\PoketwoSolver\PoketwoSolver\obj\Debug\net10.0\PoketwoSolver.AssemblyInfo.cs
+D:\VS Workspace\PoketwoSolver\PoketwoSolver\obj\Debug\net10.0\PoketwoSolver.csproj.CoreCompileInputs.cache
+D:\VS Workspace\PoketwoSolver\PoketwoSolver\bin\Debug\net10.0\PoketwoSolver.exe
+D:\VS Workspace\PoketwoSolver\PoketwoSolver\bin\Debug\net10.0\PoketwoSolver.deps.json
+D:\VS Workspace\PoketwoSolver\PoketwoSolver\bin\Debug\net10.0\PoketwoSolver.runtimeconfig.json
+D:\VS Workspace\PoketwoSolver\PoketwoSolver\bin\Debug\net10.0\PoketwoSolver.dll
+D:\VS Workspace\PoketwoSolver\PoketwoSolver\bin\Debug\net10.0\PoketwoSolver.pdb
+D:\VS Workspace\PoketwoSolver\PoketwoSolver\obj\Debug\net10.0\PoketwoSolver.dll
+D:\VS Workspace\PoketwoSolver\PoketwoSolver\obj\Debug\net10.0\refint\PoketwoSolver.dll
+D:\VS Workspace\PoketwoSolver\PoketwoSolver\obj\Debug\net10.0\PoketwoSolver.pdb
+D:\VS Workspace\PoketwoSolver\PoketwoSolver\obj\Debug\net10.0\PoketwoSolver.genruntimeconfig.cache
+D:\VS Workspace\PoketwoSolver\PoketwoSolver\obj\Debug\net10.0\ref\PoketwoSolver.dll
